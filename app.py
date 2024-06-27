@@ -45,11 +45,11 @@ def _randomize() -> None:
 
 
 st.set_page_config(
-    page_title="Image WorkDesk",
+    page_title="Light Weight Image Editing Application",
     page_icon="🖼️",
     menu_items={
         "About": f"Light Weight Image Editing Steamlit App v{VERSION}  "
-        f"\nApp contact: [Siddhant Sadangi](mailto:shah.syedmohsin1@gmail.com)",
+        f"\nApp contact: [Syed Mohsin Ali Shah](mailto:shah.syedmohsin1@gmail.com)",
         "Report a Bug": "https://github.com/thisismohsinsyed/light-weight-Streamlit-app-for-images/issues",
         "Get help": None,
     },
@@ -111,7 +111,7 @@ with st.sidebar:
             This work is licensed under a <b>Creative Commons
                 Attribution-NonCommercial-ShareAlike 4.0 International License</b>.<br>
             You can modify and build upon this work non-commercially. All derivatives should be
-            credited to Siddhant Sadangi and
+            credited to Mohsin  and
             be licenced under the same terms.
         </div>
     """
