@@ -48,16 +48,16 @@ st.set_page_config(
     page_title="Image WorkDesk",
     page_icon="🖼️",
     menu_items={
-        "About": f"Image WorkDesk v{VERSION}  "
-        f"\nApp contact: [Siddhant Sadangi](mailto:siddhant.sadangi@gmail.com)",
-        "Report a Bug": "https://github.com/SiddhantSadangi/ImageWorkdesk/issues/new",
+        "About": f"Light Weight Image Editing Steamlit App v{VERSION}  "
+        f"\nApp contact: [Siddhant Sadangi](mailto:shah.syedmohsin1@gmail.com)",
+        "Report a Bug": "https://github.com/thisismohsinsyed/light-weight-Streamlit-app-for-images/issues",
         "Get help": None,
     },
     layout="wide",
 )
 
 # ---------- HEADER ----------
-st.title("🖼️ Welcome to Image WorkDesk!")
+st.title("🖼️ Welcome to Light Weight Image Editing App")
 
 # ---------- SIDEBAR ----------
 with st.sidebar:
@@ -462,6 +462,6 @@ with contextlib.suppress(NameError):
             )
 
 st.success(
-    "[Star the repo](https://github.com/SiddhantSadangi/imageworkdesk) to show your :heart:",
+    "[Star the repo](https://github.com/thisismohsinsyed/light-weight-Streamlit-app-for-images) to show your :heart:",
     icon="⭐",
 )
