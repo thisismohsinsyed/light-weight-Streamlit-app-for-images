@@ -1,4 +1,4 @@
-# Image WorkDesk Streamlit App
+# Light Weight Streamlit Application For Images
 
 A lightweight image-processing Streamlit app that supports the following operations:
 
@@ -13,7 +13,6 @@ A lightweight image-processing Streamlit app that supports the following operati
 * Compare original and final images
 * Download results
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siddhantsadangi/imageworkdesk/app.py)
 
 I am working on additional features, and would love to hear your feedback and if you had some features which you would like to be added.
 You can reach out to me at [shah.syedmohsin1@gmail.com](mailto:shah.syedmohsin1@gmail.com) and/or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-mohsin-ali-shah/).
